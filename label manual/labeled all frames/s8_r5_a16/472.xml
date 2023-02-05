@@ -1,0 +1,26 @@
+<annotation>
+	<folder>s8_r5_a16</folder>
+	<filename>472.jpg</filename>
+	<path>C:\Users\Jiawen Liu\Desktop\extracted all images\s8_r5_a16\472.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1520</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main droite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>967</xmin>
+			<ymin>639</ymin>
+			<xmax>1057</xmax>
+			<ymax>719</ymax>
+		</bndbox>
+	</object>
+</annotation>

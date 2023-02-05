@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+	<object>
+		<bndbox>
+			<xmin>976.3529411764705</xmin>
+			<ymin>672.1176470588238</ymin>
+			<xmax>1038.6176470588234</xmax>
+			<ymax>763.705882352941</ymax>
+		</bndbox>
+	</object>
+</annotation>

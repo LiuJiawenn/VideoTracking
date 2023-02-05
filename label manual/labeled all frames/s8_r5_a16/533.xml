@@ -1,0 +1,26 @@
+<annotation>
+	<folder>s8_r5_a16</folder>
+	<filename>533.jpg</filename>
+	<path>D:\extracted all images\s8_r5_a16\533.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1520</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main droite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>746</xmin>
+			<ymin>775</ymin>
+			<xmax>828</xmax>
+			<ymax>914</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>s8_r5_a16</folder>
+	<filename>658.jpg</filename>
+	<path>D:\extracted all images\s8_r5_a16\658.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1520</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main droite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1108</xmin>
+			<ymin>475</ymin>
+			<xmax>1155</xmax>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+</annotation>

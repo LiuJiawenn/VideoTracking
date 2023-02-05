@@ -1,0 +1,26 @@
+<annotation>
+	<folder>s8_r5_a16</folder>
+	<filename>156.jpg</filename>
+	<path>C:\Users\Jiawen Liu\Desktop\extracted all images\s8_r5_a16\156.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1520</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Main droite</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1023</xmin>
+			<ymin>749</ymin>
+			<xmax>1138</xmax>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+</annotation>
